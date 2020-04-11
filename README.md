@@ -9,10 +9,10 @@ Path to excel file and text document has been hardcoded for now in the code.
 
 You need to resolve dependency by adding following jars to the project:
 
-dom4j-1.6.jar
-poi-3.9.jar
-poi-ooxml-3.9.jar
-poi-ooxml-schemas-3.9.jar
-xmlbeans-xmlpublic-2.3.0.jar
-xbean-2.3.0.jar
+1. dom4j-1.6.jar
+2. poi-3.9.jar
+3. poi-ooxml-3.9.jar
+4. poi-ooxml-schemas-3.9.jar
+5. xmlbeans-xmlpublic-2.3.0.jar
+6. xbean-2.3.0.jar
 
